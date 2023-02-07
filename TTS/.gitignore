@@ -1,0 +1,5 @@
+in/*.wav
+out/*.wav
+Vocal Processing Project/Samples/*.wav
+Vocal Processing Project/Samples/*.zip
+./**/*.zip
